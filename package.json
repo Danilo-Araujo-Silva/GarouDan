@@ -1,0 +1,35 @@
+{
+  "name": "garoudan",
+  "version": "1.0.0",
+  "description": "Danilo Araújo Silva profile. Complete résumé available at: https://goo.gl/XW7hi3.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danilo-Araujo-Silva/GarouDan.git"
+  },
+  "keywords": [
+    "GarouDan",
+    "garoudan",
+    "Danilo Araújo Silva",
+    "Danilo-Araujo-Silva",
+    "danilo-araujo-silva",
+    "Danilo",
+    "danilo",
+    "Araújo",
+    "araújo",
+    "Araujo",
+    "Silva",
+    "silva",
+    "Full Stack Developer",
+    "Developer"
+  ],
+  "author": "Danilo Araújo Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Danilo-Araujo-Silva/GarouDan/issues"
+  },
+  "homepage": "https://github.com/Danilo-Araujo-Silva/GarouDan#readme"
+}
